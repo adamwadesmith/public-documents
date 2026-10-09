@@ -1,2 +1,3 @@
 # public-documents
-Documents I want to share.
+View at https://adamwadesmith.github.io/public-documents/
+
